@@ -6,7 +6,7 @@ This access point makes requests to all data sources "asynchronously" and waits 
 *An error/timeout from any of the sources is ignored and interpreted as missing data.*
 
 # Start
-Run PostgreSQL Server and create some database. 
+Start PostgreSQL Server and create some database. 
 
 Install dependencies from requirements.txt.
 
